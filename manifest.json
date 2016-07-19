@@ -1,7 +1,7 @@
 {
   "name": "Treat Yo'self",
-  "description": "Swaps amazon's \"Get Yourself a Little Something\" text for something with a little more pizzazz.",
-  "version": "720.1",
+  "description": "Swaps amazon's various versions of \"Get Yourself a Little Something\" text for something with a little more pizzazz.",
+  "version": "720.2",
   "permissions": [
     "activeTab"
   ],
